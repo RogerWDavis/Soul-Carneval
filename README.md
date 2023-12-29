@@ -14,8 +14,7 @@ Join Soul Carnival today and let the rhythm of connection and collaboration ampl
 
 Developer: [Roger Davis](https://github.com/RogerWDavis) <br>
 [Live webapp](https://duggiezb-7eefa269f2cf.herokuapp.com/) <br>
-[Repository](https://github.com/RogerWDavis/duggiez-backend) <br>
-[FrontEnd Repository](https://github.com/RogerWDavis/duggiezf.git) <br>
+[API Repository](https://github.com/RogerWDavis/SoulCarneval-backend.git) <br>
 
 ## Table of Contents
 
